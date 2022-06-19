@@ -1,0 +1,379 @@
+GET http://localhost:5000/movies/?genre_id=16
+Accept: application/json
+
+<> 2022-06-19T144509.200.json
+
+###
+
+GET http://localhost:5000/movies/?genre_id=18
+Accept: application/json
+
+<> 2022-06-19T144421.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=5&genre_id=18
+Accept: application/json
+
+<> 2022-06-19T144334.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=5
+Accept: application/json
+
+<> 2022-06-19T144212.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=4
+Accept: application/json
+
+<> 2022-06-19T144157.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=3
+Accept: application/json
+
+<> 2022-06-19T144151.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2
+Accept: application/json
+
+<> 2022-06-19T144138.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=1
+Accept: application/json
+
+<> 2022-06-19T144112.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=1&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T144104.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T144054.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=3
+Accept: application/json
+
+<> 2022-06-19T144041.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T144007.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T143638.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T143518.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T143042.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142821.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142752.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142242.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142215.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142124.200.json
+
+###
+
+GET http://localhost:5000/movies/2
+Accept: application/json
+
+<> 2022-06-19T142119.200.json
+
+###
+
+GET http://localhost:5000/movies/2
+Accept: application/json
+
+<> 2022-06-19T142112.200.json
+
+###
+
+GET http://localhost:5000/movies/2
+Accept: application/json
+
+<> 2022-06-19T142102.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142047.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T142022.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141855.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141854.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141847.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141811.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141743.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141502.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141337.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141251.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T141008.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T140907.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T140607.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T135425.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T135147.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T134703.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T134648.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T134356.200.json
+
+###
+
+PATCH http://localhost:5000/movies/22
+Accept: application/json
+Content-Type: application/json
+
+{
+  "title": "STRASHNO"
+}
+
+<> 2022-06-19T134344.201.json
+
+###
+
+DELETE http://localhost:5000/movies/23
+Accept: application/json
+
+###
+
+PUT http://localhost:5000/movies/23
+Accept: application/json
+Content-Type: application/json
+
+{
+  "title": "GOVNO",
+  "description": "description",
+  "trailer": "trailer",
+  "year": 1222,
+  "rating": 1,
+  "genre_id": 3,
+  "director_id": 4
+}
+
+<> 2022-06-19T134343-1.201.json
+
+###
+
+GET http://localhost:5000/movies/2
+Accept: application/json
+
+<> 2022-06-19T134343-1.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T134343.200.json
+
+###
+
+POST http://localhost:5000/movies/
+Content-Type: application/json
+
+{
+  "title": "title",
+  "description": "description",
+  "trailer": "trailer",
+  "year": 1222,
+  "rating": 1,
+  "genre_id": 1,
+  "director_id": 1
+}
+
+<> 2022-06-19T134343.201.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T134228.200.json
+
+###
+
+GET http://localhost:5000/movies/?director_id=2&genre_id=4
+Accept: application/json
+
+<> 2022-06-19T134217.200.json
+
+###
+
+PATCH http://localhost:5000/movies/22
+Accept: application/json
+Content-Type: application/json
+
+{
+  "title": "STRASHNO"
+}
+
+<> 2022-06-19T130505-1.201.json
+
+###
+
